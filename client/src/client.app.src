@@ -1,0 +1,8 @@
+{application, client,
+ [{description, "Client example library"},
+  {vsn, "0.0.0"},
+  {registered, []},
+  {mod, {client_app, []}},
+  {env, []},
+  {applications, []}]}.
+

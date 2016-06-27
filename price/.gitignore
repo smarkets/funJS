@@ -1,0 +1,9 @@
+ebin
+*.o
+*.so
+*.swp
+*.tar.gz
+rel/oddr
+log
+deps
+.eunit

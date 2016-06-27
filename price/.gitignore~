@@ -1,0 +1,12 @@
+ebin
+*.o
+*.so
+*.swp
+*.tar.gz
+rel/smarkets*
+log
+rel/configuration.vars
+overlay.vars.dev
+deps
+backend
+.eunit
